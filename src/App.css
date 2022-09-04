@@ -1,0 +1,7 @@
+@font-face {
+  font-family:"Hind_Siliguri";
+  src: url("./font/Hind_Siliguri.eot") format('eot'),url("./font/Hind_Siliguri.woff")format('woff'), url("./font//Hind_Siliguri.ttf") format("truetype"), url('./font/Hind_Siliguri.svg#Hind_siliguri') format('svg');
+}
+body{
+  /* background-color: #F8F9FA; */
+}

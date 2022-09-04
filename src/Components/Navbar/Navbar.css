@@ -1,0 +1,38 @@
+.navbar-brand {
+    /* width: 80px; */
+    font-family: "Hind_Siliguri";
+    display: none;
+    
+}
+
+@media screen and (max-width: 990px) {
+    .navbar-brand {
+        /* width: 80px; */
+        font-family: "Hind_Siliguri";
+        display: block;
+        color: gray
+    }
+  
+}
+
+.nav-link {
+    font-family: "Hind_Siliguri";
+    text-decoration: none;
+}
+
+.navLink {
+    text-decoration: none;
+}
+
+.marquee-new {
+    font-family: "Hind_Siliguri";
+    font-weight: 400;
+    padding: 5px;
+    background-color: lightseagreen;
+    font-size: 18px;
+    color: lightcyan;
+}
+
+.active {
+    color: red !important;
+}

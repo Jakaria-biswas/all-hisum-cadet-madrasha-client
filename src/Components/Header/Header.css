@@ -1,0 +1,209 @@
+.header-out-side{
+    background-color: #0078C1;
+  
+}
+
+.text-1 p{
+    font-family:"Hind_Siliguri";
+    color:wheat;
+    
+}
+.text-2 p{
+    font-family:"Hind_Siliguri";
+    color:wheat;
+}
+.main-header-part{
+    padding: 10px;
+    background-color: #0078C1;
+}
+.logo img{
+    width: 150px;
+    border: 1px solid wheat;
+    margin-right: 10px;
+    box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+  
+}
+.main-header h2{
+    font-family:"Hind_Siliguri";
+    font-weight: bold;
+    color:wheat
+}
+.main-header p{
+    font-family:"Hind_Siliguri";
+    font-weight: bold;
+    color:wheat
+}
+
+
+@media screen and (max-width: 980px) {
+   .main-header h2{
+    font-size: 25px;
+   }
+  }
+  @media screen and (max-width: 767px) {
+    .main-header h2{
+     font-size: 20px;
+
+    }
+    .main-header p{
+        font-size: 14px;
+    }
+    .logo img{
+        margin-right: 15px;
+    }
+   }
+
+
+   @media screen and (max-width: 550px) {
+    .main-header h2{
+     font-size: 20px;
+
+    }
+    .main-header p{
+        font-size: 12px;
+    }
+    .logo img{
+        margin-right:0px;
+        width: 130px;
+    }
+    .text-1 p{
+        font-size: 12px;
+    }
+    .text-2 p{
+        font-size: 12px;
+    }
+   }
+
+   @media screen and (max-width: 524px) {
+    .main-header h2{
+     font-size: 19px;
+
+    }
+    .main-header p{
+        font-size: 12px;
+    }
+    .logo img{
+        margin-right:0px;
+        width: 120px;
+    }
+    .text-1 p{
+        font-size: 12px;
+    }
+    .text-2 p{
+        font-size: 12px;
+    }
+   }
+
+   
+   @media screen and (max-width: 496px) {
+    .main-header h2{
+     font-size: 18px;
+
+    }
+    .main-header p{
+        font-size: 12px;
+    }
+    .logo img{
+        margin-right:0px;
+        width: 110px;
+    }
+    .text-1 p{
+        font-size: 12px;
+    }
+    .text-2 p{
+        font-size: 12px;
+    }
+   }
+   @media screen and (max-width: 470px) {
+    .main-header h2{
+     font-size: 17px;
+
+    }
+    .main-header p{
+        font-size: 13px;
+    }
+    .logo img{
+        margin-right:0px;
+        width: 100px;
+    }
+    .text-1 p{
+        font-size: 12px;
+    }
+    .text-2 p{
+        font-size: 12px;
+    }
+   }
+
+   @media screen and (max-width: 450px) {
+    .main-header h2{
+     font-size: 16px;
+
+    }
+
+    .main-header p{
+        font-size: 13px;
+    }
+    .logo img{
+        margin-right:15px;
+        width: 86px;
+        padding: 10px 0px;
+        
+    }
+   }
+   @media screen and (max-width: 414px) {
+    .main-header h2{
+     font-size: 17px;
+
+    }
+    .main-header p{
+        font-size: 11px;
+    }
+    .logo img{
+        margin-right:0px;
+        width: 60px;
+        padding:10px 0px;
+        
+    }
+    .text-1 p{
+        font-size: 11px;
+    }
+    .text-2 p{
+        font-size: 11px;
+    }
+   }
+   @media screen and (max-width: 402px) {
+    .main-header h2{
+     font-size: 16px;
+
+    }
+    .main-header p{
+        font-size: 12px;
+    }
+    .logo img{
+        /* margin-right:0px; */
+        width: 60px;
+    }
+    .text-1 p{
+        font-size: 11px;
+    }
+    .text-2 p{
+        font-size: 11px;
+    }
+   }
+   
+   @media screen and (max-width: 390px) {
+    .logo img{
+        /* margin-right:0px;
+        width: 60px; */
+        display:none;
+    }
+    .main-header h2{
+        font-size: 16px;
+        text-align: center;
+   
+       }
+       .main-header p{
+        font-size: 12px;
+        text-align: center;
+    }
+   }

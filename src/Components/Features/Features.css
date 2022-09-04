@@ -1,0 +1,30 @@
+.feature-bg{
+    
+}
+.feature-heading{
+   width: 300px;
+   display: block;
+   margin: auto;
+   background-color: gainsboro;
+
+  
+   
+}
+.feature-heading h2{
+    text-align: center;
+    font-family:"Hind_Siliguri";
+    margin: 40px 0px; 
+    padding: 5px;
+    border-bottom: 1px solid lightseagreen;
+    border-right: 6px solid lightseagreen;
+    border-left: 6px solid lightseagreen;
+}
+.feature-text-1{
+    font-family:"Hind_Siliguri";    
+}        
+.feature-text-2{
+    font-family:"Hind_Siliguri"; 
+}
+.check_icon{
+    color: lightseagreen;
+}
